@@ -1,0 +1,60 @@
+[
+    {
+        "gmail": "UsuarioFree1@gmail.com",
+        "kills": 10,
+        "puntaje": 20,
+        "contrasenia": "1234",
+        "rondaMaxima": 2,
+        "id": 2,
+        "nombre": "UsuarioFree1"
+    },
+    {
+        "gmail": "UsuarioFree2@gmail.com",
+        "kills": 0,
+        "puntaje": 0,
+        "contrasenia": "1234",
+        "rondaMaxima": 0,
+        "id": 3,
+        "nombre": "UsuarioFree2"
+    },
+    {
+        "gmail": "UsuarioFree3@gmail.com",
+        "kills": 0,
+        "puntaje": 0,
+        "contrasenia": "1234",
+        "rondaMaxima": 0,
+        "id": 4,
+        "nombre": "UsuarioFree3"
+    },
+    {
+        "gmail": "UsuarioPremiun1@gmail.com",
+        "kills": 18,
+        "puntaje": 0,
+        "plusStats": 25,
+        "contrasenia": "1234",
+        "rondaMaxima": 3,
+        "id": 5,
+        "premiun": true,
+        "nombre": "UsuarioPremiun1"
+    },
+    {
+        "gmail": "UsuarioPremiun2@gmail.com",
+        "kills": 0,
+        "puntaje": 0,
+        "plusStats": 25,
+        "contrasenia": "1234",
+        "rondaMaxima": 0,
+        "id": 6,
+        "premiun": true,
+        "nombre": "UsuarioPremiun2"
+    },
+    {
+        "gmail": "UsuarioPremiun3@gmail.com",
+        "kills": 0,
+        "puntaje": 0,
+        "contrasenia": "1234",
+        "rondaMaxima": 0,
+        "id": 7,
+        "nombre": "UsuarioPremiun3"
+    }
+]

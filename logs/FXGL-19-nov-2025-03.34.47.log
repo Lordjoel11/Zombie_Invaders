@@ -1,0 +1,100 @@
+03:34:42.860 [main                     ] DEBUG Logger               - Configured Logger
+03:34:42.879 [main                     ] DEBUG GameApplication      - Logging settings
+Title: Zombie Invaders
+Version: 0.1
+Width: 1536
+Height: 864
+Fullscreen: true
+Intro: false
+Profiling: false
+Single step:false
+App Mode: DEVELOPER
+Menu Key: ESCAPE
+Stage Style: DECORATED
+Scene Factory: class com.marcosguianfrancojoel.zombie_invaders.MENU.MiEscenaMenu
+
+03:34:43.608 [JavaFX Application Thread] DEBUG FXGLApplication      - Initializing FXGL
+03:34:43.618 [JavaFX Application Thread] INFO  Engine               - FXGL-17.3 (30.03.2023 11.49) on WINDOWS (J:21.0.8 FX:21.0.6)
+03:34:43.618 [JavaFX Application Thread] DEBUG Engine               - JRE Vendor Name: Eclipse Adoptium
+03:34:43.619 [JavaFX Application Thread] DEBUG Engine               - Running on OS: Windows 11 version 10.0
+03:34:43.619 [JavaFX Application Thread] DEBUG Engine               - Architecture: amd64
+03:34:43.619 [JavaFX Application Thread] INFO  Engine               - Source code and latest versions at: https://github.com/AlmasB/FXGL
+03:34:43.619 [JavaFX Application Thread] INFO  Engine               -       Ask questions and discuss at: https://github.com/AlmasB/FXGL/discussions
+03:34:43.619 [JavaFX Application Thread] INFO  Engine               -              Join the FXGL chat at: https://gitter.im/AlmasB/FXGL
+03:34:43.852 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Creating a JavaFX scene
+03:34:43.941 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Target settings size: 1536.0 x 864.0
+03:34:43.942 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled scene size:    1536.0 x 864.0
+03:34:43.942 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled ratio: (1.0, 1.0)
+03:34:43.944 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Set initial scene to FXGLStartupScene
+03:34:43.953 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Opening main window
+03:34:44.113 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Window border size: (14.4000244140625, 37.5999755859375)
+03:34:44.114 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled size: 1536.0 x 864.0
+03:34:44.114 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scaled ratio: (1.0, 1.0)
+03:34:44.114 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scene size: 1536.0 x 864.0
+03:34:44.116 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Stage size: 1550.4000244140625 x 901.5999755859375
+03:34:44.134 [FXGL Background Thread 1 ] DEBUG Engine               - Initializing environment variables
+03:34:44.240 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - User app class for loading assets: class com.marcosguianfrancojoel.zombie_invaders.GameMain
+03:34:44.240 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Applying CSS: fxgl_dark.css
+03:34:44.242 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/locro/.m2/repository/com/github/almasb/fxgl/17.3/fxgl-17.3.jar!/fxglassets/ui/css/fxgl_dark.css
+03:34:44.314 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Initializing application scenes
+03:34:44.439 [FXGL Background Thread 1 ] DEBUG GameWorld            - Game world initialized
+03:34:44.542 [FXGL Background Thread 1 ] DEBUG PhysicsWorld         - Physics world initialized: appHeight=864, physics.ppm=50,0
+03:34:44.542 [FXGL Background Thread 1 ] DEBUG PhysicsWorld         - Using strategy: BRUTE_FORCE
+03:34:44.546 [FXGL Background Thread 1 ] DEBUG GameScene            - Game scene initialized: 1536x864
+03:34:44.558 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: file:/C:/Users/locro/OneDrive/Desktop/Zombie%20Invaders/target/classes/assets/textures/ui/fondoMenu.png
+03:34:44.645 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Application scenes initialized
+03:34:44.681 [FXGL Background Thread 1 ] DEBUG SystemBundleService  - Loading FXGL system data
+03:34:44.687 [FXGL Background Thread 1 ] DEBUG FileSystemAccess     - Reading from: C:\Users\locro\OneDrive\Desktop\Zombie Invaders\system\fxgl.bundle
+03:34:44.703 [FXGL Background Thread 1 ] DEBUG SystemBundleService  - Bundle FXGL: {}
+03:34:44.703 [FXGL Background Thread 1 ] DEBUG UpdaterService       - Checking for updates
+03:34:44.714 [FXGL Background Thread 4 ] DEBUG FXGLApplication      - Loading fonts
+03:34:44.715 [FXGL Background Thread 4 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/locro/.m2/repository/com/github/almasb/fxgl/17.3/fxgl-17.3.jar!/fxglassets/ui/fonts/VarelaRound-Regular.ttf
+03:34:44.716 [FXGL Background Thread 1 ] DEBUG FXGLApplication      - Loading default localization
+03:34:44.718 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/locro/.m2/repository/com/github/almasb/fxgl/17.3/fxgl-17.3.jar!/fxglassets/languages/english.lang
+03:34:44.779 [FXGL Background Thread 1 ] INFO  FXGLApplication      - FXGL initialization took: 0,645 sec
+03:34:44.781 [FXGL Background Thread 4 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/locro/.m2/repository/com/github/almasb/fxgl/17.3/fxgl-17.3.jar!/fxglassets/ui/fonts/Abel-Regular.ttf
+03:34:44.789 [FXGL Background Thread 4 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/locro/.m2/repository/com/github/almasb/fxgl/17.3/fxgl-17.3.jar!/fxglassets/ui/fonts/TerminalLandMono-Regular.otf
+03:34:44.794 [FXGL Background Thread 4 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/locro/.m2/repository/com/github/almasb/fxgl/17.3/fxgl-17.3.jar!/fxglassets/ui/fonts/Courier-Prime.ttf
+03:34:44.803 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Arriba - W
+03:34:44.803 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Abajo - S
+03:34:44.803 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Izquierda - A
+03:34:44.803 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Derecha - D
+03:34:44.804 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Cargar_municion - R
+03:34:44.805 [JavaFX Application Thread] DEBUG Input                - Registered new binding: CambiarArmaSiguiente - Q
+03:34:44.805 [JavaFX Application Thread] DEBUG Input                - Registered new binding: CambiarArmaAnterior - E
+03:34:44.811 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Disparar - LMB
+03:34:44.812 [JavaFX Application Thread] DEBUG FXGLAssetLoaderServi - Loading from file system: file:/C:/Users/locro/OneDrive/Desktop/Zombie%20Invaders/target/classes/assets/textures/icon.png
+03:34:44.871 [JavaFX Application Thread] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/locro/.m2/repository/com/github/almasb/fxgl/17.3/fxgl-17.3.jar!/fxglassets/textures/fxgl_default_cursor.png
+03:34:44.874 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Screenshot - CTRL+8
+03:34:44.880 [JavaFX Application Thread] DEBUG Input                - Registered new binding: System info dump - CTRL+9
+03:34:44.881 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Restart - CTRL+R
+03:34:44.883 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Toggle Debug Camera - CTRL+7
+03:34:44.892 [JavaFX Application Thread] DEBUG LoopRunner           - Starting loop
+03:34:44.892 [JavaFX Application Thread] DEBUG LoopRunner           - Initializing JavaFX AnimationTimerLoop
+03:34:44.897 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+03:34:44.950 [JavaFX Application Thread] DEBUG GameApplicationServi - Removing overlay from FXGLStartupScene and adding to FXGLMainMenuDummyScene
+03:34:44.951 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - FXGLStartupScene -> FXGLMainMenuDummyScene
+03:34:44.952 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Push state: MiMenu
+03:34:44.953 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+03:34:44.980 [JavaFX Application Thread] DEBUG GameApplicationServi - Removing overlay from FXGLMainMenuDummyScene and adding to MiMenu
+03:34:44.982 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - FXGLMainMenuDummyScene -> MiMenu
+03:34:44.983 [JavaFX Application Thread] DEBUG FXGLApplication      - Registering font factories with UI factory
+03:34:45.667 [FXGL Background Thread 2 ] INFO  UpdaterService       - Your current version:  17.3
+03:34:45.667 [FXGL Background Thread 2 ] INFO  UpdaterService       - Latest stable version: 21.1
+03:34:46.293 [JavaFX Application Thread] DEBUG FXGLAssetLoaderServi - Loading from file system: file:/C:/Users/locro/OneDrive/Desktop/Zombie%20Invaders/target/classes/assets/sounds/sonidosUI/ui_click.wav
+03:34:46.393 [JavaFX Application Thread] DEBUG Menu                 - fireExit()
+03:34:46.399 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Push state: DialogSubScene
+03:34:46.399 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+03:34:46.401 [JavaFX Application Thread] DEBUG GameApplicationServi - Removing overlay from MiMenu and adding to DialogSubScene
+03:34:46.401 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - MiMenu -> DialogSubScene
+03:34:47.278 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Pop state: DialogSubScene
+03:34:47.278 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+03:34:47.279 [JavaFX Application Thread] DEBUG GameApplicationServi - Removing overlay from DialogSubScene and adding to MiMenu
+03:34:47.279 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - MiMenu <- DialogSubScene
+03:34:47.280 [JavaFX Application Thread] DEBUG FXGLApplication      - Exiting FXGL
+03:34:47.280 [JavaFX Application Thread] DEBUG LoopRunner           - Stopping loop
+03:34:47.280 [JavaFX Application Thread] DEBUG SystemBundleService  - Saving FXGL system data
+03:34:47.282 [JavaFX Application Thread] DEBUG FileSystemAccess     - Writing to: C:\Users\locro\OneDrive\Desktop\Zombie Invaders\system\fxgl.bundle
+03:34:47.286 [JavaFX Application Thread] DEBUG Async                - Shutting down background threads
+03:34:47.286 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Closing main window
+03:34:47.333 [JavaFX Application Thread] DEBUG Logger               - Closing Logger
