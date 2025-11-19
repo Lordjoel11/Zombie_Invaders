@@ -1,3 +1,6 @@
+
+ALgunas Ideas descartadas.
+
 🇦🇷 Título Tentativo:
 “Operación Última Guardia”
 🎮 Concepto General del Juego
